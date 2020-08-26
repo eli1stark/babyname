@@ -1,16 +1,12 @@
-# babyname
+# Babyname
 
-A new Flutter application.
+This app helps you to find names for babies from 7k+ names.
 
-## Getting Started
+## PS
+This is my very first Flutter App made completely by me. <br>
+Yes, I know code is too spaghetti but for the first project it's fine. <br>
+The structure of the project is really very basic because of its small complexity. <br>
+For the database, I used <a href="https://pub.dev/packages/sqflite">sqflite</a> package from pub.dev <br>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Credits
+Thanks <a href="https://data.world/alexandra">Alexandra</a> for provided <a href="https://data.world/alexandra/baby-names">dataset</a>.
