@@ -4,9 +4,7 @@
 <img src="https://i.imgur.com/oHkKpye.png" alt="screenshot1" width="200" height="400"> <img src="https://i.imgur.com/PIKMKeE.png" alt="screenshot1" width="200" height="400"> <img src="https://i.imgur.com/ch1AAXl.png" alt="screenshot1" width="200" height="400"> 
 
 ## PS
-This is my very first Flutter App made completely by me. <br>
-Yes, I know the code is too spaghetti but for the first project it's fine. <br>
-The structure of the project is really very basic because of its small complexity. <br>
+The structure of the project is very basic because of its small complexity. <br>
 For the database, I used <a href="https://pub.dev/packages/sqflite">sqflite</a> package from pub.dev <br>
 
 ## Credits
