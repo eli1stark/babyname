@@ -1,7 +1,7 @@
+import 'package:babyname/infrastructure/database.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/painting.dart';
 import 'package:flutter/rendering.dart';
-import 'package:babyname/utils/database.dart';
 import 'package:babyname/components/snack_bar.dart';
 import 'package:babyname/components/arrow_back.dart';
 import 'package:babyname/components/swipe_back.dart';

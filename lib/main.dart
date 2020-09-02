@@ -1,6 +1,6 @@
+import 'package:babyname/presentation/get_name.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'screens/get_name.dart';
 
 void main() {
   runApp(BabyName());

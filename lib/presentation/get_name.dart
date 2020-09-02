@@ -1,9 +1,9 @@
+import 'package:babyname/infrastructure/database.dart';
+import 'package:babyname/presentation/folder_template.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
-import 'package:babyname/utils/database.dart';
 import 'package:rflutter_alert/rflutter_alert.dart';
 import 'package:babyname/components/image_button.dart';
-import 'package:babyname/screens/folder_template.dart';
 import 'package:babyname/components/folder_button.dart';
 import 'package:babyname/components/helper_message.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';

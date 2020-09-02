@@ -1,8 +1,8 @@
+import 'package:babyname/datasets/names_boy.dart';
+import 'package:babyname/datasets/names_girl.dart';
 import 'package:path/path.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:sqflite/sqlite_api.dart';
-import 'package:babyname/lists/names_boy.dart';
-import 'package:babyname/lists/names_girl.dart';
 import 'package:babyname/components/saved_name.dart';
 import 'package:babyname/components/favorite_name.dart';
 
@@ -50,6 +50,7 @@ class DBProvider {
 
   // Create database
   void createDatabase() async {
+    // ignore: unused_local_variable
     final db = await database;
   }
 
